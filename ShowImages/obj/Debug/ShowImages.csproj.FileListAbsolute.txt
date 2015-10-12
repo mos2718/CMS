@@ -1,0 +1,10 @@
+D:\2010\網頁程式設計\W_CSarpIntroduction\WindowsExps\ShowImages\obj\Debug\ShowImages.exe
+D:\2010\網頁程式設計\W_CSarpIntroduction\WindowsExps\ShowImages\obj\Debug\ShowImages.pdb
+D:\2010\網頁程式設計\W_CSarpIntroduction\WindowsExps\ShowImages\bin\Debug\ShowImages.exe
+D:\2010\網頁程式設計\W_CSarpIntroduction\WindowsExps\ShowImages\bin\Debug\ShowImages.pdb
+D:\2010\網頁程式設計\W_CSarpIntroduction\WindowsExps\ShowImages\obj\Debug\ResolveAssemblyReference.cache
+D:\2010\網頁程式設計\W_CSarpIntroduction\WindowsExps\ShowImages\obj\Debug\ShowImages.Form1.resources
+D:\2010\網頁程式設計\W_CSarpIntroduction\WindowsExps\ShowImages\obj\Debug\ShowImages.Properties.Resources.resources
+D:\2010\網頁程式設計\W_CSarpIntroduction\WindowsExps\ShowImages\obj\Debug\ShowImages.csproj.GenerateResource.Cache
+D:\Codes\CSharpWindowApp\ShowImages\obj\Debug\ShowImages.exe
+D:\Codes\CSharpWindowApp\ShowImages\obj\Debug\ShowImages.pdb
