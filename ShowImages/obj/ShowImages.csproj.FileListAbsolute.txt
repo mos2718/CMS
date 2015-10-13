@@ -1,8 +1,0 @@
-C:\2008\ASPNET\W3\Exps\ShowImages\ShowImages\obj\Debug\ResolveAssemblyReference.cache
-C:\2008\ASPNET\W3\Exps\ShowImages\ShowImages\obj\Debug\ShowImages.Form1.resources
-C:\2008\ASPNET\W3\Exps\ShowImages\ShowImages\obj\Debug\ShowImages.Properties.Resources.resources
-C:\2008\ASPNET\W3\Exps\ShowImages\ShowImages\obj\Debug\ShowImages.csproj.GenerateResource.Cache
-C:\2008\ASPNET\W3\Exps\ShowImages\ShowImages\bin\Debug\ShowImages.exe
-C:\2008\ASPNET\W3\Exps\ShowImages\ShowImages\bin\Debug\ShowImages.pdb
-C:\2008\ASPNET\W3\Exps\ShowImages\ShowImages\obj\Debug\ShowImages.exe
-C:\2008\ASPNET\W3\Exps\ShowImages\ShowImages\obj\Debug\ShowImages.pdb
